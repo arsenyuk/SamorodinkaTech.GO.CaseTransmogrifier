@@ -1,0 +1,1 @@
+# SamorodinkaTech.GO.CaseTransmogrifier
