@@ -1,4 +1,4 @@
-module github.com/SamorodinkaTech.GO.CaseTransmogrifier
+module github.com/arsenyuk/SamorodinkaTech.GO.CaseTransmogrifier
 
 go 1.22.4
 
